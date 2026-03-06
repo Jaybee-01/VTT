@@ -13,7 +13,8 @@ const audioPlayer = document.getElementById("audioPlayer");
 const downloadBtn = document.getElementById("downloadBtn");
 const copyBtn = document.getElementById("copyBtn");
 
-const BACKEND_URL = "https://Gaadwhin-speech-to-text-api.hf.space/api/transcribe";
+
+const BACKEND_URL = "https://jaybee01-voicetotext.hf.space/api/transcribe";
 
 // Initialize WaveSurfer
 const waveform = WaveSurfer.create({
