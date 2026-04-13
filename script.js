@@ -1,4 +1,4 @@
-const BACKEND_URL = "https://jaybee01-voicetotext.hf.space/api/transcribe";
+const BACKEND_URL = "https://okehi-voice-to-text.hf.space/api/transcribe";
 const MAX_RETRIES  = 2;         // retry failed requests up to 2 times
 const RETRY_DELAY  = 1500;      // ms between retries
 
